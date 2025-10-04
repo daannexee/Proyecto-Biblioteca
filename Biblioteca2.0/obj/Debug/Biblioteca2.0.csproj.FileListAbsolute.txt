@@ -1,0 +1,11 @@
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\bin\Debug\Biblioteca2.0.exe.config
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\bin\Debug\Biblioteca2.0.exe
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\bin\Debug\Biblioteca2.0.pdb
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\obj\Debug\Biblioteca2.0.csproj.AssemblyReference.cache
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\obj\Debug\Biblioteca2._0.Login.resources
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\obj\Debug\Biblioteca2._0.Properties.Resources.resources
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\obj\Debug\Biblioteca2.0.csproj.GenerateResource.cache
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\obj\Debug\Biblioteca2.0.csproj.CoreCompileInputs.cache
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\obj\Debug\Biblioteca2.0.exe
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\obj\Debug\Biblioteca2.0.pdb
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Biblioteca2.0\obj\Debug\Biblioteca2.0.exe.config
