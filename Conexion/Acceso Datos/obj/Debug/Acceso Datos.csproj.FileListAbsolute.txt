@@ -1,0 +1,40 @@
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\obj\Debug\Acceso Datos.csproj.AssemblyReference.cache
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\obj\Debug\Acceso Datos.csproj.CoreCompileInputs.cache
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\Acceso Datos.dll.config
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\Acceso Datos.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\Acceso Datos.pdb
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\Google.Protobuf.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\K4os.Compression.LZ4.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\K4os.Hash.xxHash.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\MySql.Data.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Buffers.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.IO.Pipelines.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Memory.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Numerics.Vectors.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\ZstdSharp.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\Google.Protobuf.pdb
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\Google.Protobuf.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\K4os.Compression.LZ4.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\K4os.Hash.xxHash.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\MySql.Data.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Buffers.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.IO.Pipelines.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Memory.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Numerics.Vectors.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\obj\Debug\Acceso D.E2B3F8D7.Up2Date
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\obj\Debug\Acceso Datos.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\Acceso Datos\obj\Debug\Acceso Datos.pdb
