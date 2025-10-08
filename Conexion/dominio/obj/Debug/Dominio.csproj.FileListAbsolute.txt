@@ -1,0 +1,37 @@
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\dominio.dll.config
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\dominio.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\dominio.pdb
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\Acceso Datos.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\MySql.Data.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\Google.Protobuf.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\ZstdSharp.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Memory.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Buffers.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\K4os.Compression.LZ4.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.IO.Pipelines.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\K4os.Hash.xxHash.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Numerics.Vectors.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\Acceso Datos.pdb
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\Acceso Datos.dll.config
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\MySql.Data.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\Google.Protobuf.pdb
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\Google.Protobuf.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Memory.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Buffers.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\K4os.Compression.LZ4.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.IO.Pipelines.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\K4os.Hash.xxHash.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\bin\Debug\System.Numerics.Vectors.xml
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\obj\Debug\Dominio.csproj.Up2Date
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\obj\Debug\dominio.dll
+D:\Cosas de la U\Programacion 1\Proyecto Biblioteca\Conexion y las restrisciones\Conexion\dominio\obj\Debug\dominio.pdb
