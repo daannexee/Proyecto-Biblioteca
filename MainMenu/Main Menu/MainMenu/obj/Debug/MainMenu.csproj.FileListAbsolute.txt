@@ -1,0 +1,13 @@
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\bin\Debug\MainMenu.exe.config
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\bin\Debug\MainMenu.exe
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\bin\Debug\MainMenu.pdb
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\bin\Debug\FontAwesome.Sharp.dll
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\obj\Debug\MainMenu.csproj.AssemblyReference.cache
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\obj\Debug\MainMenu.MainMenu.resources
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\obj\Debug\MainMenu.Properties.Resources.resources
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\obj\Debug\MainMenu.csproj.GenerateResource.cache
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\obj\Debug\MainMenu.csproj.Up2Date
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\obj\Debug\MainMenu.exe
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\obj\Debug\MainMenu.pdb
+D:\Cosas de la U\Programacion 1\Proyecto Nidea\Main Menu\MainMenu\obj\Debug\MainMenu.exe.config
